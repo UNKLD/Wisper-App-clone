@@ -5,9 +5,9 @@ A not very well styled version of the wisper app clone built with node.js, expre
 
 To install all dependencies
 
-`
+```
 npm i
-`
+```
 
 Create `.env` and inject your credentials so it looks like this
 
@@ -20,6 +20,6 @@ FACEBOOK_APP_SECRET=<APP_SECRET>
 
 To run app on localhost 3000
 
-`
+```
 npm start
-`
+```
